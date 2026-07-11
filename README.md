@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0518-coin-change-ii) |
 ## Counting
