@@ -98,16 +98,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -122,4 +125,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
