@@ -65,4 +65,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
