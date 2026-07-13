@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
