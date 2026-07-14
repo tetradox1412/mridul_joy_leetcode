@@ -1,74 +1,44 @@
 class Solution {
 public:
-    int findingRightCounter(vector<int>& weights, int days, int lowWt,
-                            int highWt) {
+    int shipWithinDays(vector<int>& weights, int days) {
+        // Find maximum weight of all packages, that will be low
+        int maxWt = weights[0];
+        for (auto x : weights)
+            maxWt = max(maxWt, x);
 
-        int n = weights.size();
-        while (lowWt < highWt) {
-            if (lowWt + 1 == highWt)
-                return highWt;
+        // Finding sum of weights, that will be high
+        int sum = 0;
+        for (auto x : weights)
+            sum += x;
 
-            int midWt = lowWt + (highWt - lowWt) / 2;
+        // Doing binary search
+        int low = maxWt;
+        int high = sum;
+
+        while (low <= high) {
+            if (low == high)
+                return low;
+
+            int mid = low + (high - low) / 2;
+            int midCp = mid;
+
             int daysTaken = 1;
-            int i = 0;
-            while (i < n) {
-                if (midWt - weights[i] >= 0)
-                    midWt -= weights[i++];
+            int idx = 0;
+            int n = weights.size();
+            while (idx < n) {
+                if (midCp - weights[idx] >= 0)
+                    midCp -= weights[idx++];
                 else {
                     daysTaken++;
-                    midWt = lowWt + (highWt - lowWt) / 2;
+                    midCp = mid;
                 }
             }
-            midWt = lowWt + (highWt - lowWt) / 2;
+
             if (daysTaken > days)
-                lowWt = midWt;
+                low = mid + 1;
             else
-                highWt = midWt;
+                high = mid;
         }
-        return -1;
-    }
-
-    int shipWithinDays(vector<int>& weights, int days) {
-        int n = weights.size();
-        int maxWeight = weights[0];
-        for (auto x : weights)
-            maxWeight = max(maxWeight, x);
-
-        int tempMax = maxWeight;
-        int daysTaken = 1;
-        int i = 0;
-        while (i < n) {
-            if (tempMax - weights[i] >= 0)
-                tempMax -= weights[i++];
-            else {
-                daysTaken++;
-                tempMax = maxWeight;
-            }
-        }
-        if (daysTaken <= days)
-            return maxWeight;
-        else {
-            int counter = 1;
-            tempMax = maxWeight + counter;
-            while (true) {
-                int daysTaken = 1;
-                int i = 0;
-                while (i < n) {
-                    if (tempMax - weights[i] >= 0)
-                        tempMax -= weights[i++];
-                    else {
-                        daysTaken++;
-                        tempMax = maxWeight + counter;
-                    }
-                }
-                if (daysTaken > days) {
-                    counter = counter << 1;
-                    tempMax = maxWeight + counter;
-                } else
-                    return findingRightCounter(weights, days,
-                                               maxWeight + (counter >> 1),
-                                               maxWeight + counter);
-            }
-        }
+        return 1;
     }
 };
