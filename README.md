@@ -1,67 +1,55 @@
-# Mridul & Joy's LeetCode Solutions
+# LeetCode Solutions — Mridul Joy
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/tetradox1412/mridul_joy_leetcode)
 ![GitHub repo size](https://img.shields.io/github/repo-size/tetradox1412/mridul_joy_leetcode)
-![Solved](https://img.shields.io/badge/problems_solved-34-brightgreen)
-![Topics](https://img.shields.io/badge/topics_covered-27-blue)
 
-A running log of our LeetCode grind — solved problems, organized by topic, committed automatically as we go. This repo isn't a curated "greatest hits" list; it's a real, growing paper trail of the two of us working through data structures and algorithms together on the road to interview-ready.
+This is a record of how I've been teaching myself data structures and algorithms, one problem at a time — synced straight from LeetCode, organized by topic, and kept honest by a real commit history instead of a curated highlight reel.
 
-Every solution is synced straight from LeetCode using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0), a Chrome extension that pushes your accepted submission to this repo the moment you pass a problem — no copy-pasting, no manual bookkeeping, no forgetting to save that one clever solution at 1am.
+Solutions land here automatically the moment a submission passes, via [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0). So what you're browsing is the actual sequence of what I solved and when — including the unglamorous stretches — not a "best of."
+
+## Live stats
+
+<!--STATS:START-->
+_(this table is filled in automatically — see "Keeping this README up to date" below)_
+<!--STATS:END-->
 
 ## How it's organized
 
-Each solved problem gets its own folder, named after LeetHub's convention:
+Each solved problem gets its own folder:
 
 ```
 NNNN-problem-name-slug/
 ├── NNNN-problem-name-slug.<ext>   # the accepted solution
-└── README.md                       # the original problem statement / notes
+└── README.md                       # the original problem statement
 ```
 
-The four-digit prefix (`0001`, `0084`, `1584`, ...) is the problem's official LeetCode number, zero-padded, so folders sort in numeric order in the file tree instead of alphabetically. Browsing the repo is basically browsing your solved-problems list in order.
+The four-digit prefix is LeetCode's official problem number, zero-padded, so folders sort in numeric order in the file tree — browsing the repo is basically browsing the order I solved things in.
 
-## At a glance
+## The learning arc, not just a topic list
 
-| Metric | Count |
-| --- | --- |
-| Problems solved | 34 |
-| Distinct topics tagged | 27 |
-| Easy | ~17 |
-| Medium | ~14 |
-| Hard | 3 |
+The auto-generated table further down groups every problem by LeetCode's topic tags, but read as a sequence it's really a progression of ideas building on each other:
 
-*(Difficulty counts are estimated from LeetCode's public tagging on each problem — worth a quick glance at the live topics table below for the exact per-problem breakdown.)*
+- **Arrays first** — the foundation almost everything else builds on: two-sum variants, in-place sorting, duplicate detection
+- **Binary search, then binary search *on the answer*** — starting with textbook search (`Binary Search`, `Search in Rotated Sorted Array`) and graduating to the less obvious "search over the space of possible answers" pattern (`Koko Eating Bananas`, `Capacity to Ship Packages Within D Days`, `Minimum Number of Days to Make m Bouquets`) — three different-looking problems, one shared insight underneath
+- **Two pointers, then sliding window** — sorted-array and palindrome problems giving way to substring problems where a fixed pair of pointers isn't enough and the window itself has to move and resize
+- **Stacks, then monotonic stacks** — from a plain stack-based check to `Largest Rectangle in Histogram`, where the stack only works if you keep it monotonic
+- **Linked lists** — reversal and the recursive way of thinking about them
+- **Graphs, as a matched pair** — `Course Schedule` asks "is this even possible?" (cycle detection via DFS/BFS); `Course Schedule II` asks the natural follow-up, "then give me a valid order" (topological sort). `Min Cost to Connect All Points` reframes the same graph intuition again, this time as Union-Find over a Minimum Spanning Tree
+- **Dynamic programming** — `House Robber`, `Best Time to Buy and Sell Stock`, and `Coin Change II` as three variations on the same question: what's the best decision at each step, given everything decided so far?
 
-## Topic coverage
+## Three that changed how I think about problems
 
-The table auto-generated below breaks every solved problem down by LeetCode topic tag, but the shape of it tells a story on its own. The heaviest concentrations are:
+- [`0004` Median of Two Sorted Arrays](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0004-median-of-two-sorted-arrays) — the first problem where brute force wasn't remotely good enough, and binary search had to operate across *two* arrays simultaneously
+- [`0076` Minimum Window Substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) — where sliding window stopped meaning "two pointers moving together" and became "two pointers with independent, asymmetric logic"
+- [`0084` Largest Rectangle in Histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) — the problem that finally made monotonic stacks *make sense*, rather than being a pattern I'd just memorized
 
-- **Array (25 problems)** — the backbone of the repo; nearly every problem touches array manipulation in some form
-- **Binary Search (8)** — including the classic "binary search on the answer" pattern (Koko Eating Bananas, Capacity to Ship Packages, Minimum Days to Make Bouquets)
-- **Hash Table (7)** and **Sorting (7)** — frequent companions to the array-heavy problems
-- **Two Pointers (6)** — palindromes, sorted-array problems, and 3Sum
+## Keeping this README up to date
 
-There's also a tight cluster of **graph theory**: Course Schedule / Course Schedule II (topological sort via DFS and BFS) sit alongside Min Cost to Connect All Points (Union-Find + Minimum Spanning Tree) — a nice self-contained arc from "can this even be done" to "what's the cheapest way to do it."
-
-A small but deliberate **dynamic programming** trio (House Robber, Best Time to Buy and Sell Stock, Coin Change II) rounds out the classic-pattern coverage, alongside standalone linked list and bit-manipulation problems.
-
-## Notable / harder solves
-
-The three problems tagged **Hard** are worth calling out specifically:
-
-- [`0004` Median of Two Sorted Arrays](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0004-median-of-two-sorted-arrays) — binary search + divide and conquer across two arrays
-- [`0076` Minimum Window Substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) — sliding window over a hash table of character counts
-- [`0084` Largest Rectangle in Histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) — monotonic stack
-
-## Why this exists
-
-No single motivation beyond the obvious one: consistent reps on the patterns that actually show up in interviews (arrays, binary search, graphs, DP), with a public commit history that keeps us both honest about showing up and doing the work.
+The "Live Stats" table above is regenerated automatically by a GitHub Action every time a new solution gets pushed — it recounts folders and topics directly from the repo contents, so it never goes stale even if this description sits untouched for months. See `scripts/update_stats.py` and `.github/workflows/update-stats.yml`.
 
 ---
 
-*Everything below this line is auto-generated by LeetHub v2 and updates automatically as new problems are solved — no need to edit it by hand.*
-
+*Everything below this line is auto-generated by LeetHub v2 and updates automatically as new problems are solved.*
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
