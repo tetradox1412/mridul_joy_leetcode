@@ -33,23 +33,13 @@ NNNN-problem-name-slug/
 
 The four-digit prefix is LeetCode's official problem number, zero-padded, so folders sort in numeric order in the file tree — browsing the repo is basically browsing the order I solved things in.
 
-## The learning arc, not just a topic list
+### Where this is right now
 
-The auto-generated table further down groups every problem by LeetCode's topic tags, but read as a sequence it's really a progression of ideas building on each other:
+This repo isn't meant to read as a finished story yet — I'm early in this, with plenty more topics, patterns, and difficulty levels still ahead. Right now it's mostly fundamentals: arrays, basic searching and sorting, a handful of two-pointer and stack problems, with some early steps into graphs and dynamic programming.
 
-- **Arrays first** — the foundation almost everything else builds on: two-sum variants, in-place sorting, duplicate detection
-- **Binary search, then binary search *on the answer*** — starting with textbook search (`Binary Search`, `Search in Rotated Sorted Array`) and graduating to the less obvious "search over the space of possible answers" pattern (`Koko Eating Bananas`, `Capacity to Ship Packages Within D Days`, `Minimum Number of Days to Make m Bouquets`) — three different-looking problems, one shared insight underneath
-- **Two pointers, then sliding window** — sorted-array and palindrome problems giving way to substring problems where a fixed pair of pointers isn't enough and the window itself has to move and resize
-- **Stacks, then monotonic stacks** — from a plain stack-based check to `Largest Rectangle in Histogram`, where the stack only works if you keep it monotonic
-- **Linked lists** — reversal and the recursive way of thinking about them
-- **Graphs, as a matched pair** — `Course Schedule` asks "is this even possible?" (cycle detection via DFS/BFS); `Course Schedule II` asks the natural follow-up, "then give me a valid order" (topological sort). `Min Cost to Connect All Points` reframes the same graph intuition again, this time as Union-Find over a Minimum Spanning Tree
-- **Dynamic programming** — `House Robber`, `Best Time to Buy and Sell Stock`, and `Coin Change II` as three variations on the same question: what's the best decision at each step, given everything decided so far?
+The goal isn't to rack up a solve count — it's to actually notice when two different-looking problems share the same underlying idea, and to let harder topics build on the fundamentals instead of being tackled in isolation. The auto-generated topic table further down is the more accurate source of truth for what's actually been covered so far.
 
-## Three that changed how I think about problems
-
-- [`0004` Median of Two Sorted Arrays](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0004-median-of-two-sorted-arrays) — the first problem where brute force wasn't remotely good enough, and binary search had to operate across *two* arrays simultaneously
-- [`0076` Minimum Window Substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) — where sliding window stopped meaning "two pointers moving together" and became "two pointers with independent, asymmetric logic"
-- [`0084` Largest Rectangle in Histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) — the problem that finally made monotonic stacks *make sense*, rather than being a pattern I'd just memorized
+Once this reflects a substantially wider spread of problems and difficulty, I'll come back and write up the real arc — what patterns connected to what, and where the harder insights actually clicked.
 
 ## Keeping this README up to date
 
