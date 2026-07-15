@@ -1,0 +1,31 @@
+name: Update README stats
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch: {}
+
+# Needed so the workflow can push its own commit back to the repo
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Recompute stats and rewrite README block
+        run: python scripts/update_stats.py
+
+      - name: Commit changes if any
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update README stats [skip ci]"
+          file_pattern: README.md
