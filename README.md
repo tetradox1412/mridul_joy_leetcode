@@ -96,6 +96,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
@@ -169,6 +170,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
