@@ -10,7 +10,15 @@ Solutions land here automatically the moment a submission passes, via [LeetHub v
 ## Live stats
 
 <!--STATS:START-->
-_(this table is filled in automatically — see "Keeping this README up to date" below)_
+
+| Metric | Count |
+| --- | --- |
+| Problems solved | 36 |
+| Distinct topics tagged | 27 |
+| Easy | 18 |
+| Medium | 15 |
+| Hard | 3 |
+
 <!--STATS:END-->
 
 ## How it's organized
