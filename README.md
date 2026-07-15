@@ -71,6 +71,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -173,6 +174,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
