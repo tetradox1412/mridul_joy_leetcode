@@ -106,6 +106,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +124,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -227,4 +229,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
