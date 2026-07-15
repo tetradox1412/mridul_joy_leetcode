@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
