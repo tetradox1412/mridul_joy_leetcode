@@ -2,7 +2,7 @@ name: Update README stats
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch: {}
 
 # Needed so the workflow can push its own commit back to the repo
