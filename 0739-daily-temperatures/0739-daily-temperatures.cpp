@@ -5,7 +5,8 @@ public:
         int n = temperatures.size();
 
         vector<int> answer(n, 0);
-        for (int i = n - 1; i >= 0; i--) {
+        st.push(n - 1);
+        for (int i = n - 2; i >= 0; i--) {
             while (!st.empty() && temperatures[st.top()] <= temperatures[i])
                 st.pop();
 
