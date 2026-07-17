@@ -118,6 +118,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
