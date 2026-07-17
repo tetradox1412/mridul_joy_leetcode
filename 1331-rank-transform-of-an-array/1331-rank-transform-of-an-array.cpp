@@ -13,12 +13,9 @@ public:
         int rank = 1;
         arr[tracker[0].second] = rank;
         int idx = 1;
-        while (idx < n) {
-            if (tracker[idx].first != tracker[idx - 1].first)
-                arr[tracker[idx++].second] = ++rank;
-            else
-                arr[tracker[idx++].second] = rank;
-        }
+        while (idx < n)
+            arr[tracker[idx++].second] =
+                tracker[idx].first != tracker[idx - 1].first ? ++rank : rank;
 
         return arr;
     }
