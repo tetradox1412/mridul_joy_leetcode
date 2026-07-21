@@ -6,7 +6,7 @@ public:
             int sum = 0;
             for (auto y : x)
                 sum += weights[y - 'a'];
-            s += (char)('z' - (sum % 26));
+            s += 'z' - (sum % 26);
         }
         return s;
     }
