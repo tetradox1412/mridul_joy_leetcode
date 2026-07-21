@@ -74,6 +74,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -158,11 +159,13 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
