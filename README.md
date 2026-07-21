@@ -86,6 +86,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2540-minimum-common-value](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
@@ -129,6 +130,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
