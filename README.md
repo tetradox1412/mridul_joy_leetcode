@@ -109,6 +109,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2540-minimum-common-value](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
