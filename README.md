@@ -13,9 +13,9 @@ Solutions land here automatically the moment a submission passes, via [LeetHub v
 
 | Metric | Count |
 | --- | --- |
-| Problems solved | 46 |
+| Problems solved | 47 |
 | Distinct topics tagged | 28 |
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 17 |
 | Hard | 3 |
 
