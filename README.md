@@ -125,6 +125,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0796-rotate-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -270,6 +271,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Enumeration
 |  |
 | ------- |
