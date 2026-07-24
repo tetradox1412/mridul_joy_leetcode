@@ -1,14 +1,18 @@
 class Solution {
 public:
     int furthestDistanceFromOrigin(string moves) {
-        unordered_map<char, int> countMoves;
-        countMoves['L'] = 0;
-        countMoves['R'] = 0;
-        countMoves['_'] = 0;
+        // 'L' -> idx 0. 'R' -> idx 1. '_' -> idx 2
+        vector<int> countMoves(3, 0);
 
-        for (auto x : moves)
-            countMoves[x]++;
+        for (auto x : moves) {
+            if (x == 'L')
+                countMoves[0]++;
+            else if (x == 'R')
+                countMoves[1]++;
+            else
+                countMoves[2]++;
+        }
 
-        return abs(countMoves['L'] - countMoves['R']) + countMoves['_'];
+        return abs(countMoves[0] - countMoves[1]) + countMoves[2];
     }
 };
