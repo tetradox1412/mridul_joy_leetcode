@@ -1,28 +1,19 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        vector<int> vec(2);
         int n = nums.size();
+        vector<int> vec(n, 0);
+        for (auto x : nums)
+            vec[x - 1]++;
 
-        int properXOR = 0;
-        for (int i = 0; i < n; i++)
-            properXOR ^= i + 1;
+        vector<int> ans(2);
+        for (int i = 0; i < n; i++) {
+            if (vec[i] == 2)
+                ans[0] = i + 1;
 
-        int wrongXOR = 0;
-        for (int i = 0; i < n; i++)
-            wrongXOR ^= nums[i];
-
-        int mixXOR = wrongXOR ^ properXOR;
-
-        for (int i = 1; i < n; i++)
-            if (nums[i] == nums[i - 1]) {
-                vec[0] = nums[i];
-                break;
-            }
-
-        vec[1] = mixXOR ^ vec[0];
-
-        return vec;
+            if (vec[i] == 0)
+                ans[1] = i + 1;
+        }
+        return ans;
     }
 };
