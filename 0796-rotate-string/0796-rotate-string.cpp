@@ -6,11 +6,13 @@ public:
             return false;
         else {
             for (int i = 0; i < n; i++) {
-                s = s[n - 1] + s.substr(0, n - 1);
+                char character = s[n - 1];
+                s.pop_back();
+                s = character + s;
                 if (s == goal)
                     return true;
             }
-             return false;
+            return false;
         }
     }
 };
