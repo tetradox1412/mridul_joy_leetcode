@@ -119,6 +119,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -282,4 +283,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
