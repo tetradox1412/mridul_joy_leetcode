@@ -5,13 +5,13 @@ public:
         unordered_map<string, vector<string>> map;
         int n = strs.size();
 
-        for (auto x : strs) {
+        for (auto& x : strs) {
             string p = x;
             sort(x.begin(), x.end());
             map[x].push_back(p);
         }
 
-        for (auto x : map) {
+        for (auto& x : map) {
             vector<string> temp;
             for (auto y : x.second)
                 temp.push_back(y);
