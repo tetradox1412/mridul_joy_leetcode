@@ -55,6 +55,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | ------- |
 | [0001-two-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
@@ -124,6 +125,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0125-valid-palindrome) |
@@ -304,4 +306,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
