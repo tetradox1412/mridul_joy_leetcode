@@ -80,6 +80,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1732-find-the-highest-altitude](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
