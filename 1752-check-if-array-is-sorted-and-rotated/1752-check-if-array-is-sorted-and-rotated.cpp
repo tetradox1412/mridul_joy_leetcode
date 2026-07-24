@@ -1,17 +1,22 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        bool isDipped = false;
+        int dips = 0;
+        int n = nums.size();
 
-        for (int i = 1; i < nums.size(); i++) {
-            if ((nums[i] >= nums[i - 1] && !isDipped) ||
-                (nums[i] >= nums[i - 1] && isDipped && nums[i] <= nums[0]))
-                continue;
-            else if (nums[i] < nums[i - 1] && nums[i] <= nums[0] && !isDipped)
-                isDipped = true;
-            else
-                return false;
+        int idx_min = 0;
+        int mini = nums[0];
+
+        for (int i = 0; i < n; i++)
+            if (min(mini, nums[i]) != mini) {
+                mini = nums[i];
+                idx_min = i;
+            }
+
+        for (int i = idx_min, count_el = 1; count_el <= n; i++, count_el++) {
+            if (nums[i % n] > nums[(i + 1) % n])
+                dips++;
         }
-        return true;
+        return !(dips > 1);
     }
 };
