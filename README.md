@@ -58,6 +58,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
@@ -110,6 +111,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | ------- |
 | [0001-two-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
@@ -129,6 +131,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
@@ -182,6 +185,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
