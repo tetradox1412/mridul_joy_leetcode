@@ -11,13 +11,8 @@ public:
             map[x].push_back(p);
         }
 
-        for (auto& x : map) {
-            vector<string> temp;
-            for (auto y : x.second)
-                temp.push_back(y);
-
-            ans.push_back(temp);
-        }
+        for (auto& x : map)
+            ans.push_back(x.second);
 
         return ans;
     }
