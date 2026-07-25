@@ -1,14 +1,21 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> vec;
+        int highest = 0;
+        int secondHighest = 0;
         while (n > 0) {
-            vec.push_back(n % 10);
+            int digit = n % 10;
+
+            if (digit > highest) {
+                swap(highest, secondHighest);
+                highest = digit;
+                n /= 10;
+                continue;
+            }
+
+            secondHighest = max(digit, secondHighest);
             n /= 10;
         }
-        sort(vec.begin(), vec.end());
-        int product = 1;
-        int high = vec.size() - 1;
-        return vec[high] * vec[high - 1];
+        return highest * secondHighest;
     }
 };
