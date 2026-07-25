@@ -1,27 +1,14 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> integers(10, 0);
+        vector<int> vec;
         while (n > 0) {
-            integers[n % 10]++;
+            vec.push_back(n % 10);
             n /= 10;
         }
-
-        for (auto x : integers)
-            cout << x << " ";
-        cout << endl;
-
+        sort(vec.begin(), vec.end());
         int product = 1;
-        int count = 0;
-        int idx = 9;
-        while (idx >= 0 && count != 2) {
-            while (integers[idx] > 0 && count != 2) {
-                product *= idx;
-                count++;
-                integers[idx]--;
-            }
-            idx--;
-        }
-        return product;
+        int high = vec.size() - 1;
+        return vec[high] * vec[high - 1];
     }
 };
