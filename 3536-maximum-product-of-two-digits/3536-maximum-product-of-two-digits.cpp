@@ -7,13 +7,10 @@ public:
             int digit = n % 10;
 
             if (digit > highest) {
-                swap(highest, secondHighest);
+                secondHighest = highest;
                 highest = digit;
-                n /= 10;
-                continue;
-            }
-
-            secondHighest = max(digit, secondHighest);
+            } else
+                secondHighest = max(digit, secondHighest);
             n /= 10;
         }
         return highest * secondHighest;
