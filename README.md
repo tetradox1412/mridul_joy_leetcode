@@ -70,6 +70,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -193,6 +195,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
