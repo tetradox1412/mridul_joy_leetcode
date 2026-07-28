@@ -5,7 +5,7 @@ public:
         if (n == 1)
             return s;
 
-        vector<int> vec(26, 0);
+        int vec[26] = {0};
         for (auto& x : s)
             vec[x - 'a']++;
 
