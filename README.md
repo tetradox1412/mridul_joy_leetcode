@@ -143,6 +143,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
@@ -202,6 +203,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -329,4 +331,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
