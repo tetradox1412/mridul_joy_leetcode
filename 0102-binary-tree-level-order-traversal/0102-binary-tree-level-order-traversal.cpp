@@ -34,8 +34,7 @@ public:
                     q.push({q.front().first->right, q.front().second + 1});
                 q.pop();
             }
-            return ans;
-        } else
-            return {};
+        }
+        return ans;
     }
 };
