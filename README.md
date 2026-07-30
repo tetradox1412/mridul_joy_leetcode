@@ -267,6 +267,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
@@ -274,6 +275,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
@@ -352,8 +354,10 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
