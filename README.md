@@ -274,6 +274,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
@@ -353,11 +354,13 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
