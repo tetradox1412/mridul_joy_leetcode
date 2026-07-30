@@ -266,12 +266,14 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
@@ -346,4 +348,12 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
