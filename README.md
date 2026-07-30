@@ -59,6 +59,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
@@ -315,6 +316,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 ## Greedy
 |  |
