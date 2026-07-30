@@ -142,6 +142,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
@@ -158,6 +159,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0628-maximum-product-of-three-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -319,6 +321,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
 | ------- |
