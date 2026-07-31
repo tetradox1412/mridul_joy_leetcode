@@ -130,6 +130,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2540-minimum-common-value](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -147,6 +148,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
@@ -209,6 +211,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
@@ -312,6 +315,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2833-furthest-point-from-origin](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -335,6 +339,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
 | ------- |
