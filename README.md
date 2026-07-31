@@ -160,6 +160,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
