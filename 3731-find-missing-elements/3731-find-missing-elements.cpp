@@ -4,7 +4,7 @@ public:
         int maxi = nums[0];
         int mini = nums[0];
         vector<int> ans;
-        vector<int> num_track(101, 0);
+        vector<bool> num_track(101, false);
 
         for (auto& x : nums) {
             maxi = max(maxi, x);
@@ -12,10 +12,10 @@ public:
         }
 
         for (auto& x : nums)
-            num_track[x]++;
+            num_track[x] = true;
 
         for (int i = mini; i <= maxi; i++)
-            if (num_track[i] == 0)
+            if (!num_track[i])
                 ans.push_back(i);
 
         return ans;
