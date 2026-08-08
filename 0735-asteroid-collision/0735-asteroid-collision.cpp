@@ -5,22 +5,19 @@ public:
         stack<int> s;
         int n = asteroids.size();
         for (int i = 0; i < n; i++) {
-            if (s.empty())
-                s.push(asteroids[i]);
-            else {
-                if ((asteroids[i] > 0 && s.top() > 0) || s.top() < 0)
-                    s.push(asteroids[i]);
-                else {
-                    while (!s.empty() && abs(s.top()) < abs(asteroids[i]) &&
-                           asteroids[i] * s.top() < 0)
-                        s.pop();
-                    if (s.empty() || s.top() < 0)
-                        s.push(asteroids[i]);
-                    else if (abs(s.top()) == abs(asteroids[i]) &&
-                             asteroids[i] * s.top() < 0)
-                        s.pop();
-                }
+            bool destroyed = false;
+            while (!s.empty() && s.top() > 0 && asteroids[i] < 0) {
+                if (-asteroids[i] > s.top()) {
+                    s.pop();
+                    continue;
+                } else if (-asteroids[i] == s.top())
+                    s.pop();
+
+                destroyed = true;
+                break;
             }
+            if (!destroyed)
+                s.push(asteroids[i]);
         }
 
         while (!s.empty()) {
