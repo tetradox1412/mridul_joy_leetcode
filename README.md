@@ -80,6 +80,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -237,6 +238,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -263,6 +265,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
