@@ -73,6 +73,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0645-set-mismatch) |
@@ -261,6 +262,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0020-valid-parentheses](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -271,6 +273,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
