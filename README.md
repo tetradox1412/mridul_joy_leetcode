@@ -13,10 +13,10 @@ Solutions land here automatically the moment a submission passes, via [LeetHub v
 
 | Metric | Count |
 | --- | --- |
-| Problems solved | 84 |
+| Problems solved | 85 |
 | Distinct topics tagged | 35 |
 | Easy | 53 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 5 |
 
 <!--STATS:END-->
