@@ -1,26 +1,25 @@
 class Solution {
 public:
     void printArr(vector<int>& vec) {
-        for (int i = 0; i < vec.size(); i++)
-            cout << vec[i] << " ";
+        for (auto& x : vec)
+            cout << x << " ";
         cout << "\n";
     }
+
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_set<int> temp;
-        for (int i = 0; i < nums.size(); i++)
-            if (!(nums[i] % k))
-                temp.insert(nums[i]);
+        int n = nums.size();
+        vector<int> compare(n);
+        int i = 1;
+        for (auto& x : compare)
+            x = k * i++;
 
-        vector<int> tempArr;
-        for (auto& x : temp)
-            tempArr.push_back(x);
+        for (auto& x : nums)
+            if (!(x % k) && (x / k) <= n)
+                compare[(x / k) - 1] = -1;
 
-        sort(tempArr.begin(), tempArr.end());
-        printArr(tempArr);
-        int i = 0;
-        for (; i < tempArr.size(); i++)
-            if (tempArr[i] != k * (i + 1))
-                return k * (i + 1);
-        return k * (i + 1);
+        for (auto& x : compare)
+            if (x != -1)
+                return x;
+        return k * (n + 1);
     }
 };
