@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void printArr(vector<int>& vec) {
-        for (auto& x : vec)
-            cout << x << " ";
-        cout << "\n";
-    }
-
     int trap(vector<int>& height) {
         int n = height.size();
 
@@ -29,9 +23,6 @@ public:
             rightMax[i] = right;
             right = max(right, height[i]);
         }
-
-        printArr(leftMax);
-        printArr(rightMax);
 
         int net = 0;
         for (int i = 1; i < n - 1; i++)
