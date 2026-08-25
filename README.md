@@ -68,6 +68,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0084-largest-rectangle-in-histogram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
@@ -130,6 +131,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0037-sudoku-solver](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
@@ -326,6 +328,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1584-min-cost-to-connect-all-points](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
