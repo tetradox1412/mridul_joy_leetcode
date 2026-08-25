@@ -10,13 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* createNode(int n) {
-        ListNode* l = new ListNode();
-        l->val = n;
-        l->next = NULL;
-        return l;
-    }
-
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         string s;
         ListNode* temp1 = l1;
@@ -48,10 +41,10 @@ public:
         if (carry)
             s += carry + '0';
 
-        ListNode* ans = createNode(s[0] - '0');
+        ListNode* ans = new ListNode(s[0] - '0');
         ListNode* tail = ans;
         for (int i = 1; i < s.size(); i++) {
-            ListNode* a = createNode(s[i] - '0');
+            ListNode* a = new ListNode(s[i] - '0');
             tail->next = a;
             tail = a;
         }
