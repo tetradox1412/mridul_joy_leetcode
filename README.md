@@ -58,6 +58,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0046-permutations) |
@@ -125,6 +126,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | ------- |
 | [0001-two-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
@@ -242,6 +244,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0037-sudoku-solver) |
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
