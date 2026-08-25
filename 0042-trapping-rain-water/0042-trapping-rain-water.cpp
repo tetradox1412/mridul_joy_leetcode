@@ -6,27 +6,22 @@ public:
         if (n <= 2)
             return 0;
 
-        vector<int> leftMax(n);
-        vector<int> rightMax(n);
+        int left = 0, right = n - 1, net = 0, leftMax = height[0],
+            rightMax = height[n - 1];
 
-        leftMax[0] = -1;
-        rightMax[n - 1] = -1;
-
-        int left = height[0];
-        for (int i = 1; i < n; i++) {
-            leftMax[i] = left;
-            left = max(left, height[i]);
+        while (left < right) {
+            if (height[left] < height[right]) {
+                if (height[left] > leftMax)
+                    leftMax = height[left++];
+                else
+                    net += leftMax - height[left++];
+            } else {
+                if (height[right] > rightMax)
+                    rightMax = height[right--];
+                else
+                    net += rightMax - height[right--];
+            }
         }
-
-        int right = height[n - 1];
-        for (int i = n - 2; i >= 0; i--) {
-            rightMax[i] = right;
-            right = max(right, height[i]);
-        }
-
-        int net = 0;
-        for (int i = 1; i < n - 1; i++)
-            net += max(0, min(leftMax[i], rightMax[i]) - height[i]);
 
         return net;
     }
