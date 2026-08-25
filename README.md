@@ -72,6 +72,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0169-majority-element](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -114,6 +115,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1732-find-the-highest-altitude) |
