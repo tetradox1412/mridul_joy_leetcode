@@ -106,6 +106,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
@@ -136,6 +137,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [2965-find-missing-and-repeated-values](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
