@@ -1,11 +1,5 @@
 class Solution {
 public:
-    void printArr(vector<int>& vec) {
-        for (auto& x : vec)
-            cout << x << " ";
-        cout << "\n";
-    }
-
     int missingMultiple(vector<int>& nums, int k) {
         int n = nums.size();
         vector<int> compare(n);
