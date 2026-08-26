@@ -58,6 +58,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0011-container-with-most-water](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0037-sudoku-solver) |
@@ -287,6 +288,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0011-container-with-most-water](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0088-merge-sorted-array) |
