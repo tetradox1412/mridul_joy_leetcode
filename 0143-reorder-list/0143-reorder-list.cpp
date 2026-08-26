@@ -13,26 +13,22 @@ public:
     void reorderList(ListNode* head) {
         if (head != NULL) {
             vector<ListNode*> vec;
-            vector<ListNode*> finalVec;
             for (ListNode* i = head; i != NULL; i = i->next)
                 vec.push_back(i);
 
             int n = vec.size();
-            int left = 0, right = n - 1;
-
-            bool leftChance = true;
-            while (left <= right) {
-                if (leftChance)
-                    finalVec.push_back(vec[left++]);
-                else
-                    finalVec.push_back(vec[right--]);
-                leftChance = !leftChance;
-            }
-
+            int left = 1, right = n - 1;
             ListNode* tail = head;
-            for (int i = 1; i < n; i++) {
-                tail->next = finalVec[i];
-                tail = finalVec[i];
+            bool leftChance = false;
+            while (left <= right) {
+                if (leftChance) {
+                    tail->next = vec[left];
+                    tail = vec[left++];
+                } else {
+                    tail->next = vec[right];
+                    tail = vec[right--];
+                }
+                leftChance = !leftChance;
             }
             tail->next = NULL;
         }
