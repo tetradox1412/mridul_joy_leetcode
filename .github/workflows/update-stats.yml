@@ -28,6 +28,12 @@ jobs:
       - name: Recompute stats and rewrite README block
         run: python scripts/update_stats.py
 
+      # --- NEW STEP ADDED HERE ---
+      # Pulls any commits pushed to main while the Python script was running,
+      # cleanly applying your new README changes on top of them.
+      - name: Pull latest changes
+        run: git pull origin main --rebase
+
       - name: Commit changes if any
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
