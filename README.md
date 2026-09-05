@@ -81,6 +81,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0217-contains-duplicate](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -209,6 +210,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -220,6 +222,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -298,6 +301,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0143-reorder-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2540-minimum-common-value](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
@@ -449,6 +453,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -457,4 +462,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
