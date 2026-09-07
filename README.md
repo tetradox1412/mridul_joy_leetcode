@@ -145,6 +145,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -167,6 +168,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -181,6 +183,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
