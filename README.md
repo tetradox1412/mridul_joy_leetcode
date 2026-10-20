@@ -94,6 +94,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0733-flood-fill](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/1260-shift-2d-grid) |
@@ -382,6 +383,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
