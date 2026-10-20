@@ -191,6 +191,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 | [0002-add-two-numbers](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0268-missing-number) |
@@ -377,6 +378,7 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0518-coin-change-ii) |
@@ -471,4 +473,8 @@ The "Live Stats" table above is regenerated automatically by a GitHub Action eve
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tetradox1412/mridul_joy_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
